@@ -1,0 +1,8 @@
+﻿"Алгоритмы_MST.exe" (CoreCLR: DefaultDomain). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Private.CoreLib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.dll". Символы загружены.
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Runtime.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Runtime.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Алгоритмы_MST.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Text.Encoding.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+Программа "[13384] Алгоритмы_MST.exe" завершилась с кодом 0 (0x0).

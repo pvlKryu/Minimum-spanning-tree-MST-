@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.exe
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.deps.json
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.runtimeconfig.json
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.runtimeconfig.dev.json
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.dll
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.pdb
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.AssemblyInfo.cs
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.dll
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.pdb
+C:\Users\User\Desktop\ДВФУ\Алгоритмы и структуры данных\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.genruntimeconfig.cache
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.exe
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.deps.json
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.runtimeconfig.json
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.runtimeconfig.dev.json
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.dll
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\bin\Debug\netcoreapp3.1\Алгоритмы_MST.pdb
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.AssemblyInfo.cs
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.dll
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.pdb
+C:\Users\User\Desktop\ДВФУ\1-2 курс\2 курс\Алгоритмы и структуры данных\1 семестр\Графы\Алгоритмы_MST\obj\Debug\netcoreapp3.1\Алгоритмы_MST.genruntimeconfig.cache
